@@ -4,9 +4,8 @@
 //
 
 #import "RxHttpBuilder.h"
-#import "RxHttpDefs.h"
 #import "RxHttp.h"
-#import "RxOCCommonDefs.h"
+
 
 @implementation RxHttpBuilder
 @dynamic rx_addRequestHeader;

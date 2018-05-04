@@ -7,8 +7,6 @@
 //
 
 #import "RxHttpBuilder.h"
-#import "RxHttpDefs.h"
-#import "RxHttp.h"
 @implementation RxHttpPutBuilder
 
 @dynamic rx_addRequestHeader;

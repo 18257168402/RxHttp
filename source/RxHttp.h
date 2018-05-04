@@ -7,7 +7,7 @@
 //
 #import <AFNetworking/AFNetworking.h>
 #import <Foundation/Foundation.h>
-#import "RxOC.h"
+#import <RxOC/RxOC.h>
 #import "RxHttpDefs.h"
 #import "RxHttpBuilder.h"
 #import <MJExtension/MJExtension.h>

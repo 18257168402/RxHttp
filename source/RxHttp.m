@@ -7,7 +7,7 @@
 //
 
 #import "RxHttp.h"
-#import "RxHttpDefs.h"
+
 
 @implementation RxHttpException
 -(instancetype)initWithCode:(int)code{

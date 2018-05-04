@@ -11,8 +11,8 @@
 
 #import <MJExtension/MJExtension.h>
 #import "RxHttpErrDefs.h"
-#import "RxOCCommonDefs.h"
-#import "RxOC.h"
+#import <RxOC/RxOCCommonDefs.h>
+#import <RxOC/RxOC.h>
 //#define RX_WEAK_DECL __weak typeof(self) weakself = self;
 #define RX_WEAK_DECL typeof(self) weakself = self;
 

@@ -7,7 +7,6 @@
 //
 
 #import "RxHttpBuilder.h"
-#import "RxHttp.h"
 @implementation RxHttpPostBuilder
 @dynamic rx_addRequestHeader;
 @dynamic rx_addResponseContentType;
